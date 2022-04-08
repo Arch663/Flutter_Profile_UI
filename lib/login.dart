@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:profile/profile.dart';
-import 'package:profile/dashboard.dart';
-import 'package:profile/login.dart';
+import 'profile.dart';
+import 'dashboard.dart';
+import 'login.dart';
 
 class Login extends StatelessWidget {
   const Login({Key? key}) : super(key: key);
